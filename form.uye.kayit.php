@@ -7,7 +7,7 @@
       html, body {
       min-height: 100%;
       }
-      body, div, form, input, select, p { 
+      body, div, form, input, select, p {
       padding: 0;
       margin: 0;
       outline: none;
@@ -31,7 +31,7 @@
       width: 50%;
       padding: 20px;
       background: #fff;
-      box-shadow: 0 2px 5px #ccc; 
+      box-shadow: 0 2px 5px #ccc;
       }
       input, select, textarea {
       margin-bottom: 10px;
@@ -94,10 +94,10 @@
       button {
       width: 150px;
       padding: 10px;
-      border: none;      
-      -webkit-border-radius: 5px; 
-      -moz-border-radius: 5px; 
-      border-radius: 5px; 
+      border: none;
+      -webkit-border-radius: 5px;
+      -moz-border-radius: 5px;
+      border-radius: 5px;
       background-color: #095484;
       font-size: 16px;
       color: #fff;
@@ -121,6 +121,7 @@
       }
     </style>
   </head>
+<img src = "veganyemek.jpg">
   <body>
     <div class="formbox">
       <form action="/">
